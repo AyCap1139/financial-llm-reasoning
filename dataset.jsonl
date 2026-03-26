@@ -1,0 +1,300 @@
+{"text": "Question: Returns 20.25%, 20.57% with vol 18.48%, 18.26%\nReasoning: Sharpe A=1.10, B=1.13\nConclusion: Strategy B"}
+{"text": "Question: 111 to 76\nReasoning: dd \u2248 -32.13%\nConclusion: -32.13%"}
+{"text": "Question: Returns 21.04%, 21.21% with vol 26.60%, 11.67%\nReasoning: Sharpe A=0.79, B=1.82\nConclusion: Strategy B"}
+{"text": "Question: Returns 16.01%, 24.99% with vol 6.26%, 25.90%\nReasoning: Sharpe A=2.56, B=0.96\nConclusion: Strategy A"}
+{"text": "Question: 3.45% for 10 years\nReasoning: (1+r)^n \u2248 1.40\nConclusion: 1.40x"}
+{"text": "Question: Returns 9.41%, 21.19% with vol 19.73%, 5.16%\nReasoning: Sharpe A=0.48, B=4.10\nConclusion: Strategy B"}
+{"text": "Question: 4.02% for 5 years\nReasoning: (1+r)^n \u2248 1.22\nConclusion: 1.22x"}
+{"text": "Question: 4.11% for 5 years\nReasoning: (1+r)^n \u2248 1.22\nConclusion: 1.22x"}
+{"text": "Question: 197 to 151\nReasoning: dd \u2248 -23.55%\nConclusion: -23.55%"}
+{"text": "Question: Returns 6.45%, 24.97% with vol 16.46%, 29.90%\nReasoning: Sharpe A=0.39, B=0.84\nConclusion: Strategy B"}
+{"text": "Question: 4.57% for 3 years\nReasoning: (1+r)^n \u2248 1.14\nConclusion: 1.14x"}
+{"text": "Question: Returns 17.79%, 10.50% with vol 5.63%, 10.58%\nReasoning: Sharpe A=3.16, B=0.99\nConclusion: Strategy A"}
+{"text": "Question: Returns 9.99%, 20.60% with vol 7.57%, 27.10%\nReasoning: Sharpe A=1.32, B=0.76\nConclusion: Strategy A"}
+{"text": "Question: 1.70% for 10 years\nReasoning: (1+r)^n \u2248 1.18\nConclusion: 1.18x"}
+{"text": "Question: 3.85% for 5 years\nReasoning: (1+r)^n \u2248 1.21\nConclusion: 1.21x"}
+{"text": "Question: 141 to 109\nReasoning: dd \u2248 -22.66%\nConclusion: -22.66%"}
+{"text": "Question: 188 to 149\nReasoning: dd \u2248 -20.55%\nConclusion: -20.55%"}
+{"text": "Question: 4.07% for 4 years\nReasoning: (1+r)^n \u2248 1.17\nConclusion: 1.17x"}
+{"text": "Question: 155 to 112\nReasoning: dd \u2248 -27.69%\nConclusion: -27.69%"}
+{"text": "Question: Returns 17.83%, 24.62% with vol 14.99%, 18.41%\nReasoning: Sharpe A=1.19, B=1.34\nConclusion: Strategy B"}
+{"text": "Question: Returns 16.12%, 8.10% with vol 22.96%, 12.42%\nReasoning: Sharpe A=0.70, B=0.65\nConclusion: Strategy A"}
+{"text": "Question: 4.43% for 8 years\nReasoning: (1+r)^n \u2248 1.41\nConclusion: 1.41x"}
+{"text": "Question: 115 to 107\nReasoning: dd \u2248 -7.36%\nConclusion: -7.36%"}
+{"text": "Question: 123 to 103\nReasoning: dd \u2248 -16.40%\nConclusion: -16.40%"}
+{"text": "Question: 1.05% for 8 years\nReasoning: (1+r)^n \u2248 1.09\nConclusion: 1.09x"}
+{"text": "Question: Returns 19.58%, 24.68% with vol 21.83%, 7.46%\nReasoning: Sharpe A=0.90, B=3.31\nConclusion: Strategy B"}
+{"text": "Question: Returns 21.67%, 17.23% with vol 22.59%, 29.68%\nReasoning: Sharpe A=0.96, B=0.58\nConclusion: Strategy A"}
+{"text": "Question: 1.10% for 5 years\nReasoning: (1+r)^n \u2248 1.06\nConclusion: 1.06x"}
+{"text": "Question: 130 to 110\nReasoning: dd \u2248 -15.22%\nConclusion: -15.22%"}
+{"text": "Question: 145 to 88\nReasoning: dd \u2248 -39.40%\nConclusion: -39.40%"}
+{"text": "Question: 150 to 113\nReasoning: dd \u2248 -24.53%\nConclusion: -24.53%"}
+{"text": "Question: 3.46% for 10 years\nReasoning: (1+r)^n \u2248 1.41\nConclusion: 1.41x"}
+{"text": "Question: Returns 22.29%, 21.22% with vol 29.41%, 27.04%\nReasoning: Sharpe A=0.76, B=0.78\nConclusion: Strategy B"}
+{"text": "Question: 2.19% for 8 years\nReasoning: (1+r)^n \u2248 1.19\nConclusion: 1.19x"}
+{"text": "Question: 100 to 91\nReasoning: dd \u2248 -9.57%\nConclusion: -9.57%"}
+{"text": "Question: 115 to 80\nReasoning: dd \u2248 -30.70%\nConclusion: -30.70%"}
+{"text": "Question: 186 to 116\nReasoning: dd \u2248 -37.51%\nConclusion: -37.51%"}
+{"text": "Question: 2.82% for 5 years\nReasoning: (1+r)^n \u2248 1.15\nConclusion: 1.15x"}
+{"text": "Question: 4.18% for 2 years\nReasoning: (1+r)^n \u2248 1.09\nConclusion: 1.09x"}
+{"text": "Question: 112 to 97\nReasoning: dd \u2248 -12.96%\nConclusion: -12.96%"}
+{"text": "Question: 115 to 102\nReasoning: dd \u2248 -11.61%\nConclusion: -11.61%"}
+{"text": "Question: Returns 8.15%, 6.60% with vol 29.02%, 9.65%\nReasoning: Sharpe A=0.28, B=0.68\nConclusion: Strategy B"}
+{"text": "Question: Returns 13.47%, 5.07% with vol 11.92%, 24.28%\nReasoning: Sharpe A=1.13, B=0.21\nConclusion: Strategy A"}
+{"text": "Question: Returns 24.25%, 7.17% with vol 11.64%, 15.86%\nReasoning: Sharpe A=2.08, B=0.45\nConclusion: Strategy A"}
+{"text": "Question: 158 to 133\nReasoning: dd \u2248 -15.97%\nConclusion: -15.97%"}
+{"text": "Question: 3.64% for 6 years\nReasoning: (1+r)^n \u2248 1.24\nConclusion: 1.24x"}
+{"text": "Question: Returns 10.34%, 7.23% with vol 21.02%, 15.87%\nReasoning: Sharpe A=0.49, B=0.46\nConclusion: Strategy A"}
+{"text": "Question: Returns 24.37%, 15.84% with vol 19.48%, 23.70%\nReasoning: Sharpe A=1.25, B=0.67\nConclusion: Strategy A"}
+{"text": "Question: 4.29% for 3 years\nReasoning: (1+r)^n \u2248 1.13\nConclusion: 1.13x"}
+{"text": "Question: 144 to 116\nReasoning: dd \u2248 -19.07%\nConclusion: -19.07%"}
+{"text": "Question: 152 to 101\nReasoning: dd \u2248 -33.31%\nConclusion: -33.31%"}
+{"text": "Question: 134 to 127\nReasoning: dd \u2248 -5.12%\nConclusion: -5.12%"}
+{"text": "Question: 4.20% for 5 years\nReasoning: (1+r)^n \u2248 1.23\nConclusion: 1.23x"}
+{"text": "Question: 2.09% for 7 years\nReasoning: (1+r)^n \u2248 1.16\nConclusion: 1.16x"}
+{"text": "Question: 2.94% for 5 years\nReasoning: (1+r)^n \u2248 1.16\nConclusion: 1.16x"}
+{"text": "Question: 130 to 105\nReasoning: dd \u2248 -19.40%\nConclusion: -19.40%"}
+{"text": "Question: 110 to 95\nReasoning: dd \u2248 -13.30%\nConclusion: -13.30%"}
+{"text": "Question: Returns 24.14%, 6.85% with vol 13.41%, 7.42%\nReasoning: Sharpe A=1.80, B=0.92\nConclusion: Strategy A"}
+{"text": "Question: 135 to 94\nReasoning: dd \u2248 -30.96%\nConclusion: -30.96%"}
+{"text": "Question: Returns 5.01%, 5.39% with vol 13.10%, 28.23%\nReasoning: Sharpe A=0.38, B=0.19\nConclusion: Strategy A"}
+{"text": "Question: 108 to 74\nReasoning: dd \u2248 -31.60%\nConclusion: -31.60%"}
+{"text": "Question: 141 to 96\nReasoning: dd \u2248 -32.14%\nConclusion: -32.14%"}
+{"text": "Question: 2.10% for 3 years\nReasoning: (1+r)^n \u2248 1.06\nConclusion: 1.06x"}
+{"text": "Question: 1.70% for 10 years\nReasoning: (1+r)^n \u2248 1.18\nConclusion: 1.18x"}
+{"text": "Question: 128 to 103\nReasoning: dd \u2248 -19.36%\nConclusion: -19.36%"}
+{"text": "Question: Returns 13.60%, 18.09% with vol 19.50%, 16.62%\nReasoning: Sharpe A=0.70, B=1.09\nConclusion: Strategy B"}
+{"text": "Question: Returns 12.58%, 10.30% with vol 29.63%, 24.60%\nReasoning: Sharpe A=0.42, B=0.42\nConclusion: Strategy A"}
+{"text": "Question: Returns 13.76%, 7.42% with vol 17.94%, 10.62%\nReasoning: Sharpe A=0.77, B=0.70\nConclusion: Strategy A"}
+{"text": "Question: 1.54% for 9 years\nReasoning: (1+r)^n \u2248 1.15\nConclusion: 1.15x"}
+{"text": "Question: 142 to 115\nReasoning: dd \u2248 -19.14%\nConclusion: -19.14%"}
+{"text": "Question: 4.41% for 8 years\nReasoning: (1+r)^n \u2248 1.41\nConclusion: 1.41x"}
+{"text": "Question: 1.50% for 3 years\nReasoning: (1+r)^n \u2248 1.05\nConclusion: 1.05x"}
+{"text": "Question: 197 to 135\nReasoning: dd \u2248 -31.16%\nConclusion: -31.16%"}
+{"text": "Question: 180 to 121\nReasoning: dd \u2248 -33.08%\nConclusion: -33.08%"}
+{"text": "Question: 1.11% for 8 years\nReasoning: (1+r)^n \u2248 1.09\nConclusion: 1.09x"}
+{"text": "Question: Returns 10.97%, 17.18% with vol 20.97%, 8.82%\nReasoning: Sharpe A=0.52, B=1.95\nConclusion: Strategy B"}
+{"text": "Question: Returns 10.34%, 17.96% with vol 28.42%, 20.23%\nReasoning: Sharpe A=0.36, B=0.89\nConclusion: Strategy B"}
+{"text": "Question: 101 to 71\nReasoning: dd \u2248 -30.05%\nConclusion: -30.05%"}
+{"text": "Question: 2.53% for 4 years\nReasoning: (1+r)^n \u2248 1.11\nConclusion: 1.11x"}
+{"text": "Question: 4.36% for 6 years\nReasoning: (1+r)^n \u2248 1.29\nConclusion: 1.29x"}
+{"text": "Question: Returns 20.91%, 5.47% with vol 10.69%, 9.83%\nReasoning: Sharpe A=1.96, B=0.56\nConclusion: Strategy A"}
+{"text": "Question: Returns 8.80%, 13.44% with vol 16.22%, 11.96%\nReasoning: Sharpe A=0.54, B=1.12\nConclusion: Strategy B"}
+{"text": "Question: 3.17% for 8 years\nReasoning: (1+r)^n \u2248 1.28\nConclusion: 1.28x"}
+{"text": "Question: Returns 24.79%, 16.14% with vol 21.00%, 22.12%\nReasoning: Sharpe A=1.18, B=0.73\nConclusion: Strategy A"}
+{"text": "Question: Returns 18.27%, 7.69% with vol 28.47%, 7.89%\nReasoning: Sharpe A=0.64, B=0.97\nConclusion: Strategy B"}
+{"text": "Question: Returns 22.56%, 6.71% with vol 28.67%, 17.15%\nReasoning: Sharpe A=0.79, B=0.39\nConclusion: Strategy A"}
+{"text": "Question: 113 to 79\nReasoning: dd \u2248 -29.92%\nConclusion: -29.92%"}
+{"text": "Question: 2.56% for 8 years\nReasoning: (1+r)^n \u2248 1.22\nConclusion: 1.22x"}
+{"text": "Question: 144 to 127\nReasoning: dd \u2248 -11.50%\nConclusion: -11.50%"}
+{"text": "Question: 131 to 79\nReasoning: dd \u2248 -39.52%\nConclusion: -39.52%"}
+{"text": "Question: Returns 14.77%, 21.92% with vol 27.63%, 7.31%\nReasoning: Sharpe A=0.53, B=3.00\nConclusion: Strategy B"}
+{"text": "Question: 1.73% for 6 years\nReasoning: (1+r)^n \u2248 1.11\nConclusion: 1.11x"}
+{"text": "Question: Returns 18.28%, 11.28% with vol 13.26%, 26.20%\nReasoning: Sharpe A=1.38, B=0.43\nConclusion: Strategy A"}
+{"text": "Question: Returns 5.03%, 15.77% with vol 28.14%, 22.99%\nReasoning: Sharpe A=0.18, B=0.69\nConclusion: Strategy B"}
+{"text": "Question: 186 to 150\nReasoning: dd \u2248 -19.45%\nConclusion: -19.45%"}
+{"text": "Question: Returns 15.01%, 23.25% with vol 9.47%, 26.76%\nReasoning: Sharpe A=1.59, B=0.87\nConclusion: Strategy A"}
+{"text": "Question: 186 to 166\nReasoning: dd \u2248 -11.13%\nConclusion: -11.13%"}
+{"text": "Question: 152 to 124\nReasoning: dd \u2248 -18.21%\nConclusion: -18.21%"}
+{"text": "Question: 109 to 75\nReasoning: dd \u2248 -31.17%\nConclusion: -31.17%"}
+{"text": "Question: 3.28% for 8 years\nReasoning: (1+r)^n \u2248 1.29\nConclusion: 1.29x"}
+{"text": "Question: 2.73% for 7 years\nReasoning: (1+r)^n \u2248 1.21\nConclusion: 1.21x"}
+{"text": "Question: 132 to 113\nReasoning: dd \u2248 -14.00%\nConclusion: -14.00%"}
+{"text": "Question: 163 to 113\nReasoning: dd \u2248 -30.74%\nConclusion: -30.74%"}
+{"text": "Question: 3.06% for 7 years\nReasoning: (1+r)^n \u2248 1.24\nConclusion: 1.24x"}
+{"text": "Question: 148 to 125\nReasoning: dd \u2248 -15.09%\nConclusion: -15.09%"}
+{"text": "Question: Returns 22.57%, 11.15% with vol 25.79%, 6.45%\nReasoning: Sharpe A=0.88, B=1.73\nConclusion: Strategy B"}
+{"text": "Question: Returns 12.99%, 24.95% with vol 10.48%, 17.74%\nReasoning: Sharpe A=1.24, B=1.41\nConclusion: Strategy B"}
+{"text": "Question: 4.23% for 4 years\nReasoning: (1+r)^n \u2248 1.18\nConclusion: 1.18x"}
+{"text": "Question: Returns 6.38%, 20.32% with vol 24.02%, 8.21%\nReasoning: Sharpe A=0.27, B=2.47\nConclusion: Strategy B"}
+{"text": "Question: 1.55% for 5 years\nReasoning: (1+r)^n \u2248 1.08\nConclusion: 1.08x"}
+{"text": "Question: 106 to 99\nReasoning: dd \u2248 -6.40%\nConclusion: -6.40%"}
+{"text": "Question: 2.80% for 5 years\nReasoning: (1+r)^n \u2248 1.15\nConclusion: 1.15x"}
+{"text": "Question: 195 to 161\nReasoning: dd \u2248 -17.33%\nConclusion: -17.33%"}
+{"text": "Question: 2.77% for 5 years\nReasoning: (1+r)^n \u2248 1.15\nConclusion: 1.15x"}
+{"text": "Question: 1.34% for 8 years\nReasoning: (1+r)^n \u2248 1.11\nConclusion: 1.11x"}
+{"text": "Question: 156 to 106\nReasoning: dd \u2248 -31.59%\nConclusion: -31.59%"}
+{"text": "Question: 182 to 146\nReasoning: dd \u2248 -19.83%\nConclusion: -19.83%"}
+{"text": "Question: Returns 14.10%, 24.15% with vol 15.58%, 29.89%\nReasoning: Sharpe A=0.91, B=0.81\nConclusion: Strategy A"}
+{"text": "Question: 128 to 121\nReasoning: dd \u2248 -5.11%\nConclusion: -5.11%"}
+{"text": "Question: Returns 22.19%, 9.76% with vol 6.77%, 21.72%\nReasoning: Sharpe A=3.28, B=0.45\nConclusion: Strategy A"}
+{"text": "Question: 176 to 117\nReasoning: dd \u2248 -33.87%\nConclusion: -33.87%"}
+{"text": "Question: 2.82% for 7 years\nReasoning: (1+r)^n \u2248 1.21\nConclusion: 1.21x"}
+{"text": "Question: 133 to 102\nReasoning: dd \u2248 -22.94%\nConclusion: -22.94%"}
+{"text": "Question: Returns 21.86%, 9.58% with vol 24.40%, 5.80%\nReasoning: Sharpe A=0.90, B=1.65\nConclusion: Strategy B"}
+{"text": "Question: Returns 19.84%, 12.28% with vol 21.77%, 6.75%\nReasoning: Sharpe A=0.91, B=1.82\nConclusion: Strategy B"}
+{"text": "Question: 3.54% for 9 years\nReasoning: (1+r)^n \u2248 1.37\nConclusion: 1.37x"}
+{"text": "Question: 147 to 112\nReasoning: dd \u2248 -24.01%\nConclusion: -24.01%"}
+{"text": "Question: Returns 15.72%, 12.57% with vol 29.33%, 18.80%\nReasoning: Sharpe A=0.54, B=0.67\nConclusion: Strategy B"}
+{"text": "Question: 1.59% for 2 years\nReasoning: (1+r)^n \u2248 1.03\nConclusion: 1.03x"}
+{"text": "Question: Returns 13.13%, 8.09% with vol 20.52%, 28.25%\nReasoning: Sharpe A=0.64, B=0.29\nConclusion: Strategy A"}
+{"text": "Question: Returns 19.09%, 9.56% with vol 6.15%, 12.23%\nReasoning: Sharpe A=3.11, B=0.78\nConclusion: Strategy A"}
+{"text": "Question: Returns 24.92%, 24.42% with vol 18.23%, 26.52%\nReasoning: Sharpe A=1.37, B=0.92\nConclusion: Strategy A"}
+{"text": "Question: 184 to 118\nReasoning: dd \u2248 -36.03%\nConclusion: -36.03%"}
+{"text": "Question: 2.39% for 8 years\nReasoning: (1+r)^n \u2248 1.21\nConclusion: 1.21x"}
+{"text": "Question: Returns 10.00%, 13.86% with vol 28.08%, 26.53%\nReasoning: Sharpe A=0.36, B=0.52\nConclusion: Strategy B"}
+{"text": "Question: Returns 6.14%, 15.06% with vol 19.60%, 26.32%\nReasoning: Sharpe A=0.31, B=0.57\nConclusion: Strategy B"}
+{"text": "Question: Returns 19.57%, 17.12% with vol 12.84%, 17.79%\nReasoning: Sharpe A=1.52, B=0.96\nConclusion: Strategy A"}
+{"text": "Question: 145 to 103\nReasoning: dd \u2248 -29.27%\nConclusion: -29.27%"}
+{"text": "Question: 147 to 90\nReasoning: dd \u2248 -38.86%\nConclusion: -38.86%"}
+{"text": "Question: 1.41% for 6 years\nReasoning: (1+r)^n \u2248 1.09\nConclusion: 1.09x"}
+{"text": "Question: Returns 17.71%, 12.40% with vol 14.12%, 10.24%\nReasoning: Sharpe A=1.25, B=1.21\nConclusion: Strategy A"}
+{"text": "Question: 103 to 84\nReasoning: dd \u2248 -17.95%\nConclusion: -17.95%"}
+{"text": "Question: Returns 19.35%, 17.68% with vol 10.09%, 11.60%\nReasoning: Sharpe A=1.92, B=1.52\nConclusion: Strategy A"}
+{"text": "Question: 162 to 141\nReasoning: dd \u2248 -12.85%\nConclusion: -12.85%"}
+{"text": "Question: Returns 21.12%, 11.81% with vol 22.45%, 8.89%\nReasoning: Sharpe A=0.94, B=1.33\nConclusion: Strategy B"}
+{"text": "Question: 1.30% for 5 years\nReasoning: (1+r)^n \u2248 1.07\nConclusion: 1.07x"}
+{"text": "Question: 1.98% for 9 years\nReasoning: (1+r)^n \u2248 1.19\nConclusion: 1.19x"}
+{"text": "Question: 2.74% for 2 years\nReasoning: (1+r)^n \u2248 1.06\nConclusion: 1.06x"}
+{"text": "Question: 160 to 98\nReasoning: dd \u2248 -39.09%\nConclusion: -39.09%"}
+{"text": "Question: 2.95% for 6 years\nReasoning: (1+r)^n \u2248 1.19\nConclusion: 1.19x"}
+{"text": "Question: 194 to 160\nReasoning: dd \u2248 -17.67%\nConclusion: -17.67%"}
+{"text": "Question: 186 to 119\nReasoning: dd \u2248 -36.01%\nConclusion: -36.01%"}
+{"text": "Question: Returns 14.07%, 22.52% with vol 28.85%, 11.58%\nReasoning: Sharpe A=0.49, B=1.94\nConclusion: Strategy B"}
+{"text": "Question: 2.78% for 4 years\nReasoning: (1+r)^n \u2248 1.12\nConclusion: 1.12x"}
+{"text": "Question: Returns 11.02%, 5.01% with vol 18.70%, 12.17%\nReasoning: Sharpe A=0.59, B=0.41\nConclusion: Strategy A"}
+{"text": "Question: Returns 24.38%, 21.97% with vol 28.16%, 9.16%\nReasoning: Sharpe A=0.87, B=2.40\nConclusion: Strategy B"}
+{"text": "Question: 189 to 162\nReasoning: dd \u2248 -14.29%\nConclusion: -14.29%"}
+{"text": "Question: 2.86% for 10 years\nReasoning: (1+r)^n \u2248 1.33\nConclusion: 1.33x"}
+{"text": "Question: 130 to 97\nReasoning: dd \u2248 -25.91%\nConclusion: -25.91%"}
+{"text": "Question: 4.94% for 3 years\nReasoning: (1+r)^n \u2248 1.16\nConclusion: 1.16x"}
+{"text": "Question: 128 to 103\nReasoning: dd \u2248 -19.13%\nConclusion: -19.13%"}
+{"text": "Question: 4.68% for 10 years\nReasoning: (1+r)^n \u2248 1.58\nConclusion: 1.58x"}
+{"text": "Question: Returns 23.78%, 24.41% with vol 7.88%, 9.46%\nReasoning: Sharpe A=3.02, B=2.58\nConclusion: Strategy A"}
+{"text": "Question: 124 to 92\nReasoning: dd \u2248 -25.78%\nConclusion: -25.78%"}
+{"text": "Question: 127 to 100\nReasoning: dd \u2248 -21.10%\nConclusion: -21.10%"}
+{"text": "Question: Returns 6.42%, 9.58% with vol 20.78%, 27.64%\nReasoning: Sharpe A=0.31, B=0.35\nConclusion: Strategy B"}
+{"text": "Question: 2.56% for 2 years\nReasoning: (1+r)^n \u2248 1.05\nConclusion: 1.05x"}
+{"text": "Question: 123 to 105\nReasoning: dd \u2248 -14.76%\nConclusion: -14.76%"}
+{"text": "Question: 152 to 115\nReasoning: dd \u2248 -24.52%\nConclusion: -24.52%"}
+{"text": "Question: Returns 13.44%, 9.37% with vol 5.74%, 17.63%\nReasoning: Sharpe A=2.34, B=0.53\nConclusion: Strategy A"}
+{"text": "Question: 176 to 108\nReasoning: dd \u2248 -38.72%\nConclusion: -38.72%"}
+{"text": "Question: 4.11% for 4 years\nReasoning: (1+r)^n \u2248 1.17\nConclusion: 1.17x"}
+{"text": "Question: 2.00% for 3 years\nReasoning: (1+r)^n \u2248 1.06\nConclusion: 1.06x"}
+{"text": "Question: Returns 22.62%, 12.39% with vol 26.98%, 8.94%\nReasoning: Sharpe A=0.84, B=1.39\nConclusion: Strategy B"}
+{"text": "Question: 1.90% for 3 years\nReasoning: (1+r)^n \u2248 1.06\nConclusion: 1.06x"}
+{"text": "Question: 2.83% for 9 years\nReasoning: (1+r)^n \u2248 1.29\nConclusion: 1.29x"}
+{"text": "Question: Returns 22.81%, 16.89% with vol 11.16%, 20.48%\nReasoning: Sharpe A=2.04, B=0.82\nConclusion: Strategy A"}
+{"text": "Question: 123 to 85\nReasoning: dd \u2248 -30.74%\nConclusion: -30.74%"}
+{"text": "Question: 3.90% for 9 years\nReasoning: (1+r)^n \u2248 1.41\nConclusion: 1.41x"}
+{"text": "Question: 4.06% for 10 years\nReasoning: (1+r)^n \u2248 1.49\nConclusion: 1.49x"}
+{"text": "Question: Returns 9.09%, 9.77% with vol 22.90%, 14.89%\nReasoning: Sharpe A=0.40, B=0.66\nConclusion: Strategy B"}
+{"text": "Question: 3.83% for 8 years\nReasoning: (1+r)^n \u2248 1.35\nConclusion: 1.35x"}
+{"text": "Question: 176 to 142\nReasoning: dd \u2248 -19.11%\nConclusion: -19.11%"}
+{"text": "Question: 148 to 106\nReasoning: dd \u2248 -28.08%\nConclusion: -28.08%"}
+{"text": "Question: 2.52% for 5 years\nReasoning: (1+r)^n \u2248 1.13\nConclusion: 1.13x"}
+{"text": "Question: 125 to 99\nReasoning: dd \u2248 -20.47%\nConclusion: -20.47%"}
+{"text": "Question: Returns 6.94%, 13.47% with vol 15.78%, 16.68%\nReasoning: Sharpe A=0.44, B=0.81\nConclusion: Strategy B"}
+{"text": "Question: Returns 14.45%, 21.15% with vol 24.62%, 9.76%\nReasoning: Sharpe A=0.59, B=2.17\nConclusion: Strategy B"}
+{"text": "Question: Returns 13.05%, 22.23% with vol 13.48%, 11.22%\nReasoning: Sharpe A=0.97, B=1.98\nConclusion: Strategy B"}
+{"text": "Question: 180 to 153\nReasoning: dd \u2248 -15.16%\nConclusion: -15.16%"}
+{"text": "Question: 105 to 73\nReasoning: dd \u2248 -30.65%\nConclusion: -30.65%"}
+{"text": "Question: 3.69% for 5 years\nReasoning: (1+r)^n \u2248 1.20\nConclusion: 1.20x"}
+{"text": "Question: 3.83% for 3 years\nReasoning: (1+r)^n \u2248 1.12\nConclusion: 1.12x"}
+{"text": "Question: Returns 18.43%, 11.32% with vol 12.50%, 23.80%\nReasoning: Sharpe A=1.47, B=0.48\nConclusion: Strategy A"}
+{"text": "Question: Returns 9.02%, 24.90% with vol 12.79%, 21.25%\nReasoning: Sharpe A=0.71, B=1.17\nConclusion: Strategy B"}
+{"text": "Question: 3.87% for 8 years\nReasoning: (1+r)^n \u2248 1.36\nConclusion: 1.36x"}
+{"text": "Question: Returns 19.40%, 11.19% with vol 12.51%, 15.21%\nReasoning: Sharpe A=1.55, B=0.74\nConclusion: Strategy A"}
+{"text": "Question: Returns 12.70%, 10.09% with vol 19.41%, 22.72%\nReasoning: Sharpe A=0.65, B=0.44\nConclusion: Strategy A"}
+{"text": "Question: Returns 23.08%, 21.69% with vol 18.64%, 19.56%\nReasoning: Sharpe A=1.24, B=1.11\nConclusion: Strategy A"}
+{"text": "Question: Returns 8.42%, 8.27% with vol 23.23%, 14.49%\nReasoning: Sharpe A=0.36, B=0.57\nConclusion: Strategy B"}
+{"text": "Question: Returns 20.75%, 22.44% with vol 7.70%, 26.46%\nReasoning: Sharpe A=2.69, B=0.85\nConclusion: Strategy A"}
+{"text": "Question: Returns 6.60%, 7.02% with vol 10.82%, 11.95%\nReasoning: Sharpe A=0.61, B=0.59\nConclusion: Strategy A"}
+{"text": "Question: Returns 21.95%, 21.14% with vol 20.09%, 23.24%\nReasoning: Sharpe A=1.09, B=0.91\nConclusion: Strategy A"}
+{"text": "Question: 146 to 90\nReasoning: dd \u2248 -38.10%\nConclusion: -38.10%"}
+{"text": "Question: 138 to 127\nReasoning: dd \u2248 -8.20%\nConclusion: -8.20%"}
+{"text": "Question: Returns 9.28%, 23.71% with vol 8.31%, 19.28%\nReasoning: Sharpe A=1.12, B=1.23\nConclusion: Strategy B"}
+{"text": "Question: 4.57% for 3 years\nReasoning: (1+r)^n \u2248 1.14\nConclusion: 1.14x"}
+{"text": "Question: 124 to 103\nReasoning: dd \u2248 -16.76%\nConclusion: -16.76%"}
+{"text": "Question: 4.40% for 3 years\nReasoning: (1+r)^n \u2248 1.14\nConclusion: 1.14x"}
+{"text": "Question: 102 to 89\nReasoning: dd \u2248 -13.23%\nConclusion: -13.23%"}
+{"text": "Question: 105 to 74\nReasoning: dd \u2248 -29.78%\nConclusion: -29.78%"}
+{"text": "Question: Returns 5.23%, 18.63% with vol 23.02%, 18.42%\nReasoning: Sharpe A=0.23, B=1.01\nConclusion: Strategy B"}
+{"text": "Question: 2.98% for 5 years\nReasoning: (1+r)^n \u2248 1.16\nConclusion: 1.16x"}
+{"text": "Question: Returns 20.84%, 6.27% with vol 15.55%, 14.54%\nReasoning: Sharpe A=1.34, B=0.43\nConclusion: Strategy A"}
+{"text": "Question: 4.86% for 6 years\nReasoning: (1+r)^n \u2248 1.33\nConclusion: 1.33x"}
+{"text": "Question: Returns 16.90%, 9.70% with vol 21.88%, 8.00%\nReasoning: Sharpe A=0.77, B=1.21\nConclusion: Strategy B"}
+{"text": "Question: Returns 17.74%, 19.82% with vol 11.55%, 18.79%\nReasoning: Sharpe A=1.54, B=1.05\nConclusion: Strategy A"}
+{"text": "Question: 3.31% for 6 years\nReasoning: (1+r)^n \u2248 1.22\nConclusion: 1.22x"}
+{"text": "Question: 2.88% for 10 years\nReasoning: (1+r)^n \u2248 1.33\nConclusion: 1.33x"}
+{"text": "Question: Returns 13.38%, 15.46% with vol 19.59%, 28.37%\nReasoning: Sharpe A=0.68, B=0.54\nConclusion: Strategy A"}
+{"text": "Question: Returns 11.31%, 9.22% with vol 11.69%, 28.57%\nReasoning: Sharpe A=0.97, B=0.32\nConclusion: Strategy A"}
+{"text": "Question: 4.04% for 8 years\nReasoning: (1+r)^n \u2248 1.37\nConclusion: 1.37x"}
+{"text": "Question: Returns 21.59%, 22.23% with vol 20.46%, 19.43%\nReasoning: Sharpe A=1.05, B=1.14\nConclusion: Strategy B"}
+{"text": "Question: 1.25% for 8 years\nReasoning: (1+r)^n \u2248 1.10\nConclusion: 1.10x"}
+{"text": "Question: 130 to 94\nReasoning: dd \u2248 -27.37%\nConclusion: -27.37%"}
+{"text": "Question: 3.97% for 9 years\nReasoning: (1+r)^n \u2248 1.42\nConclusion: 1.42x"}
+{"text": "Question: 2.74% for 6 years\nReasoning: (1+r)^n \u2248 1.18\nConclusion: 1.18x"}
+{"text": "Question: 3.65% for 3 years\nReasoning: (1+r)^n \u2248 1.11\nConclusion: 1.11x"}
+{"text": "Question: 2.01% for 3 years\nReasoning: (1+r)^n \u2248 1.06\nConclusion: 1.06x"}
+{"text": "Question: Returns 5.50%, 11.64% with vol 23.41%, 28.27%\nReasoning: Sharpe A=0.23, B=0.41\nConclusion: Strategy B"}
+{"text": "Question: 129 to 109\nReasoning: dd \u2248 -15.31%\nConclusion: -15.31%"}
+{"text": "Question: 188 to 145\nReasoning: dd \u2248 -23.04%\nConclusion: -23.04%"}
+{"text": "Question: 119 to 102\nReasoning: dd \u2248 -14.15%\nConclusion: -14.15%"}
+{"text": "Question: 3.42% for 3 years\nReasoning: (1+r)^n \u2248 1.11\nConclusion: 1.11x"}
+{"text": "Question: 195 to 123\nReasoning: dd \u2248 -37.02%\nConclusion: -37.02%"}
+{"text": "Question: Returns 9.45%, 14.21% with vol 25.41%, 12.63%\nReasoning: Sharpe A=0.37, B=1.12\nConclusion: Strategy B"}
+{"text": "Question: 195 to 164\nReasoning: dd \u2248 -15.84%\nConclusion: -15.84%"}
+{"text": "Question: Returns 16.23%, 16.69% with vol 11.57%, 27.45%\nReasoning: Sharpe A=1.40, B=0.61\nConclusion: Strategy A"}
+{"text": "Question: 1.80% for 2 years\nReasoning: (1+r)^n \u2248 1.04\nConclusion: 1.04x"}
+{"text": "Question: 3.04% for 4 years\nReasoning: (1+r)^n \u2248 1.13\nConclusion: 1.13x"}
+{"text": "Question: 2.59% for 5 years\nReasoning: (1+r)^n \u2248 1.14\nConclusion: 1.14x"}
+{"text": "Question: 2.11% for 8 years\nReasoning: (1+r)^n \u2248 1.18\nConclusion: 1.18x"}
+{"text": "Question: Returns 11.57%, 24.34% with vol 26.61%, 11.98%\nReasoning: Sharpe A=0.43, B=2.03\nConclusion: Strategy B"}
+{"text": "Question: Returns 18.08%, 21.34% with vol 5.20%, 12.48%\nReasoning: Sharpe A=3.48, B=1.71\nConclusion: Strategy A"}
+{"text": "Question: 134 to 103\nReasoning: dd \u2248 -22.70%\nConclusion: -22.70%"}
+{"text": "Question: 3.38% for 9 years\nReasoning: (1+r)^n \u2248 1.35\nConclusion: 1.35x"}
+{"text": "Question: Returns 23.29%, 10.30% with vol 16.47%, 11.17%\nReasoning: Sharpe A=1.41, B=0.92\nConclusion: Strategy A"}
+{"text": "Question: Returns 11.76%, 9.60% with vol 19.71%, 10.51%\nReasoning: Sharpe A=0.60, B=0.91\nConclusion: Strategy B"}
+{"text": "Question: 141 to 118\nReasoning: dd \u2248 -15.87%\nConclusion: -15.87%"}
+{"text": "Question: 3.49% for 5 years\nReasoning: (1+r)^n \u2248 1.19\nConclusion: 1.19x"}
+{"text": "Question: 198 to 177\nReasoning: dd \u2248 -10.86%\nConclusion: -10.86%"}
+{"text": "Question: 1.37% for 5 years\nReasoning: (1+r)^n \u2248 1.07\nConclusion: 1.07x"}
+{"text": "Question: Returns 13.46%, 15.79% with vol 10.29%, 23.25%\nReasoning: Sharpe A=1.31, B=0.68\nConclusion: Strategy A"}
+{"text": "Question: 3.02% for 7 years\nReasoning: (1+r)^n \u2248 1.23\nConclusion: 1.23x"}
+{"text": "Question: Returns 5.53%, 18.00% with vol 9.97%, 18.62%\nReasoning: Sharpe A=0.55, B=0.97\nConclusion: Strategy B"}
+{"text": "Question: 110 to 72\nReasoning: dd \u2248 -34.37%\nConclusion: -34.37%"}
+{"text": "Question: 179 to 145\nReasoning: dd \u2248 -19.17%\nConclusion: -19.17%"}
+{"text": "Question: 113 to 69\nReasoning: dd \u2248 -38.41%\nConclusion: -38.41%"}
+{"text": "Question: Returns 14.71%, 13.02% with vol 10.34%, 6.47%\nReasoning: Sharpe A=1.42, B=2.01\nConclusion: Strategy B"}
+{"text": "Question: 3.26% for 5 years\nReasoning: (1+r)^n \u2248 1.17\nConclusion: 1.17x"}
+{"text": "Question: 114 to 71\nReasoning: dd \u2248 -37.91%\nConclusion: -37.91%"}
+{"text": "Question: Returns 6.47%, 10.30% with vol 10.33%, 28.33%\nReasoning: Sharpe A=0.63, B=0.36\nConclusion: Strategy A"}
+{"text": "Question: Returns 22.53%, 18.11% with vol 12.87%, 14.89%\nReasoning: Sharpe A=1.75, B=1.22\nConclusion: Strategy A"}
+{"text": "Question: 179 to 144\nReasoning: dd \u2248 -19.36%\nConclusion: -19.36%"}
+{"text": "Question: Returns 20.92%, 22.98% with vol 26.52%, 10.25%\nReasoning: Sharpe A=0.79, B=2.24\nConclusion: Strategy B"}
+{"text": "Question: 2.12% for 9 years\nReasoning: (1+r)^n \u2248 1.21\nConclusion: 1.21x"}
+{"text": "Question: 2.29% for 5 years\nReasoning: (1+r)^n \u2248 1.12\nConclusion: 1.12x"}
+{"text": "Question: 143 to 114\nReasoning: dd \u2248 -20.10%\nConclusion: -20.10%"}
+{"text": "Question: 1.21% for 7 years\nReasoning: (1+r)^n \u2248 1.09\nConclusion: 1.09x"}
+{"text": "Question: Returns 6.82%, 7.19% with vol 6.18%, 20.69%\nReasoning: Sharpe A=1.10, B=0.35\nConclusion: Strategy A"}
+{"text": "Question: 129 to 96\nReasoning: dd \u2248 -25.85%\nConclusion: -25.85%"}
+{"text": "Question: 3.67% for 10 years\nReasoning: (1+r)^n \u2248 1.43\nConclusion: 1.43x"}
+{"text": "Question: 142 to 109\nReasoning: dd \u2248 -23.11%\nConclusion: -23.11%"}
+{"text": "Question: 2.71% for 10 years\nReasoning: (1+r)^n \u2248 1.31\nConclusion: 1.31x"}
+{"text": "Question: Returns 13.05%, 7.55% with vol 12.39%, 15.51%\nReasoning: Sharpe A=1.05, B=0.49\nConclusion: Strategy A"}
+{"text": "Question: 4.12% for 2 years\nReasoning: (1+r)^n \u2248 1.08\nConclusion: 1.08x"}
+{"text": "Question: 107 to 82\nReasoning: dd \u2248 -22.79%\nConclusion: -22.79%"}
+{"text": "Question: 4.10% for 9 years\nReasoning: (1+r)^n \u2248 1.44\nConclusion: 1.44x"}
+{"text": "Question: 166 to 123\nReasoning: dd \u2248 -25.98%\nConclusion: -25.98%"}
+{"text": "Question: 2.86% for 6 years\nReasoning: (1+r)^n \u2248 1.18\nConclusion: 1.18x"}
+{"text": "Question: 3.30% for 8 years\nReasoning: (1+r)^n \u2248 1.30\nConclusion: 1.30x"}
+{"text": "Question: 155 to 102\nReasoning: dd \u2248 -34.52%\nConclusion: -34.52%"}
+{"text": "Question: 141 to 100\nReasoning: dd \u2248 -28.76%\nConclusion: -28.76%"}
+{"text": "Question: 175 to 111\nReasoning: dd \u2248 -36.41%\nConclusion: -36.41%"}
+{"text": "Question: Returns 7.96%, 11.17% with vol 8.19%, 27.47%\nReasoning: Sharpe A=0.97, B=0.41\nConclusion: Strategy A"}
+{"text": "Question: 129 to 90\nReasoning: dd \u2248 -30.10%\nConclusion: -30.10%"}
+{"text": "Question: 3.37% for 2 years\nReasoning: (1+r)^n \u2248 1.07\nConclusion: 1.07x"}
+{"text": "Question: 3.15% for 10 years\nReasoning: (1+r)^n \u2248 1.36\nConclusion: 1.36x"}
+{"text": "Question: Returns 19.73%, 22.84% with vol 21.92%, 7.17%\nReasoning: Sharpe A=0.90, B=3.18\nConclusion: Strategy B"}
+{"text": "Question: 2.66% for 7 years\nReasoning: (1+r)^n \u2248 1.20\nConclusion: 1.20x"}
+{"text": "Question: 182 to 168\nReasoning: dd \u2248 -7.76%\nConclusion: -7.76%"}
+{"text": "Question: 4.86% for 3 years\nReasoning: (1+r)^n \u2248 1.15\nConclusion: 1.15x"}
+{"text": "Question: 137 to 109\nReasoning: dd \u2248 -20.63%\nConclusion: -20.63%"}
+{"text": "Question: 2.91% for 7 years\nReasoning: (1+r)^n \u2248 1.22\nConclusion: 1.22x"}
+{"text": "Question: Returns 14.51%, 10.30% with vol 18.75%, 26.81%\nReasoning: Sharpe A=0.77, B=0.38\nConclusion: Strategy A"}
+{"text": "Question: Returns 7.14%, 10.45% with vol 18.83%, 20.12%\nReasoning: Sharpe A=0.38, B=0.52\nConclusion: Strategy B"}
+{"text": "Question: 144 to 110\nReasoning: dd \u2248 -23.60%\nConclusion: -23.60%"}
+{"text": "Question: Returns 23.81%, 23.06% with vol 21.93%, 20.39%\nReasoning: Sharpe A=1.09, B=1.13\nConclusion: Strategy B"}
+{"text": "Question: 4.32% for 3 years\nReasoning: (1+r)^n \u2248 1.14\nConclusion: 1.14x"}
+{"text": "Question: Returns 13.55%, 6.50% with vol 5.24%, 27.08%\nReasoning: Sharpe A=2.59, B=0.24\nConclusion: Strategy A"}
